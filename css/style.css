@@ -1,3 +1,4 @@
+
 body {
     background: #fff;
     color: #666666;
@@ -12,7 +13,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: cyan;
+    color: rgba(21, 243, 243, 0.845);
     outline: none;
     text-decoration: none;
 }
